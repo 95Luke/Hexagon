@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+
+##TO-DO function responsible for user input instead of hard-codded values
 a = ['century', 'customer', 'democratic', 'Congress', 'customer', 'evening',
      'often', 'outside', 'reveal', 'weight', 'western', 'century']
 
